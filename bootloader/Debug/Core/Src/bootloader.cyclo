@@ -1,0 +1,2 @@
+../Core/Src/bootloader.c:11:6:bootloader_init	1
+../Core/Src/bootloader.c:22:6:bootloader_switch_states	7
